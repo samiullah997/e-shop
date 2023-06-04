@@ -1,5 +1,5 @@
 import React, { Fragment } from "react";
-import LoginPage from "../pages/LoginPage.jsx";
+import LoginPage from "../../pages/LoginPage.jsx";
 
 const Login = () => {
   return (
